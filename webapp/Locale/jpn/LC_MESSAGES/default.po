@@ -1,0 +1,83 @@
+msgid "ユーザーを追加しました。"
+msgstr ""
+
+msgid "入力に誤りがあります。"
+msgstr ""
+
+msgid "ログインに失敗しました"
+msgstr ""
+
+msgid "ログアウトしました"
+msgstr ""
+
+msgid "ユーザー一覧"
+msgstr ""
+
+msgid "ユーザー情報を更新しました"
+msgstr ""
+
+msgid "ユーザーを削除しました"
+msgstr ""
+
+msgid "ユーザーを削除できませんでした"
+msgstr ""
+
+msgid "ユーザー登録"
+msgstr ""
+
+msgid "ユーザー編集"
+msgstr ""
+
+msgid "必須"
+msgstr ""
+
+msgid "社員番号"
+msgstr ""
+
+msgid "5桁の社員番号を入力してください"
+msgstr ""
+
+msgid "名前"
+msgstr ""
+
+msgid "名前を入力してください"
+msgstr ""
+
+msgid "フリガナ"
+msgstr ""
+
+msgid "カタカナで入力してください"
+msgstr ""
+
+msgid "メールアドレス"
+msgstr ""
+
+msgid "ここで登録されるメールアドレスはログインIDとして使用します"
+msgstr ""
+
+msgid "パスワード"
+msgstr ""
+
+msgid "7文字以上16文字以下で入力してください"
+msgstr ""
+
+msgid "ここで登録されるパスワードはログイン用として使用します"
+msgstr ""
+
+msgid "パスワード確認用"
+msgstr ""
+
+msgid "もう一度パスワードを入力してください"
+msgstr ""
+
+msgid "管理者権限"
+msgstr ""
+
+msgid "管理者権限を設定してください"
+msgstr ""
+
+msgid "登録"
+msgstr ""
+
+msgid "保存"
+msgstr ""

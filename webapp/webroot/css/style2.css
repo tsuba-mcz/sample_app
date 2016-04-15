@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.table_layout001 {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.table_layout001 .mod_table {
+	width: 960px;
+}
+
+.table_layout001 .mod_table .header_title_area th {
+	border-bottom-color: #cccccc;
+	color: #555555;
+}
+
+.button_area {
+	text-align: right;
+	margin-bottom: 20px;
+}
+
+.button {
+	text-decoration: none;
+	font-weight: normal;
+	display: inline-block;
+	background: #f2b320;
+	border: 1px solid #dddddd;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	color: #111111;
+	padding: 10px 20px;
+	transition: 0.5s;
+}
+.button:hover {
+	background: #e4e93f;
+}
