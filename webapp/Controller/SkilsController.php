@@ -56,7 +56,7 @@ class SkilsController extends AppController
      * 入力確認
      */
     public function confirm() {
-        $this->set('title', __('入力確認'));
+        $this->set('title', __('入力内容確認'));
 
         // postで遷移していなければ入力画面へリダイレクト
         if(!$this->request->is('post')) {

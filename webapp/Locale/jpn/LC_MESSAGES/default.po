@@ -1,7 +1,7 @@
-msgid "ユーザーを追加しました。"
+msgid "ユーザーを追加しました"
 msgstr ""
 
-msgid "入力に誤りがあります。"
+msgid "入力に誤りがあります"
 msgstr ""
 
 msgid "ログインに失敗しました"
@@ -22,7 +22,7 @@ msgstr ""
 msgid "ユーザーを削除できませんでした"
 msgstr ""
 
-msgid "ユーザー登録"
+msgid "ユーザー追加"
 msgstr ""
 
 msgid "ユーザー編集"
@@ -80,4 +80,121 @@ msgid "登録"
 msgstr ""
 
 msgid "保存"
+msgstr ""
+
+msgid "有"
+msgstr ""
+
+msgid "無"
+msgstr ""
+
+msgid "経歴書登録者一覧"
+msgstr ""
+
+msgid "スキル入力"
+msgstr ""
+
+msgid "入力内容確認"
+msgstr ""
+
+msgid "入力内容登録"
+msgstr ""
+
+msgid "プロフィールを登録しました"
+msgstr ""
+
+msgid "登録内容編集"
+msgstr ""
+
+msgid "編集内容確認"
+msgstr ""
+
+msgid "該当の社員番号を選択してください"
+msgstr ""
+
+msgid "イニシャル"
+msgstr ""
+
+msgid "名姓の順でイニシャルを入力してください"
+msgstr ""
+
+msgid "性別"
+msgstr ""
+
+msgid "性別を選択してください"
+msgstr ""
+
+msgid "生年月日"
+msgstr ""
+
+msgid "生年月日を入力してください"
+msgstr ""
+
+msgid "簡易住所"
+msgstr ""
+
+msgid "市区町村までの住所を入力してください"
+msgstr ""
+
+msgid "詳細住所"
+msgstr ""
+
+msgid "番地、ビル名等までの住所を入力してください"
+msgstr ""
+
+msgid "最寄駅"
+msgstr ""
+
+msgid "最寄駅を入力してください"
+msgstr ""
+
+msgid "出身校"
+msgstr ""
+
+msgid "出身校を入力してください"
+msgstr ""
+
+msgid "学部"
+msgstr ""
+
+msgid "学部を入力してください"
+msgstr ""
+
+msgid "学科"
+msgstr ""
+
+msgid "学科を入力してください"
+msgstr ""
+
+msgid "卒業年"
+msgstr ""
+
+msgid "卒業年を選択してください"
+msgstr ""
+
+msgid "取得資格"
+msgstr ""
+
+msgid "取得資格を入力してください"
+msgstr ""
+
+msgid "内容確認"
+msgstr ""
+
+msgid "戻る"
+msgstr ""
+
+msgid "この項目は必須です"
+msgstr ""
+
+msgid "指定された形式で入力してください"
+msgstr ""
+
+msgid "指定の文字数で入力してください"
+msgstr ""
+
+msgid "同一の番号が既に存在します"
+msgstr ""
+
+msgid "パスワードが一致しません"
 msgstr ""
