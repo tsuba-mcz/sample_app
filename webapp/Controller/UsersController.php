@@ -49,7 +49,7 @@ class UsersController extends AppController
             $this->Session->setFlash(__('ユーザーを追加しました。'));
             $this->redirect(BASE_URL . 'users');
         } else {
-            $this->Session->setFlash(__('入力に誤りがあります。'));
+            $this->Session->setFlash(__('入力に誤りがあります'));
             $this->User->varidationErrors;
         }
     }
@@ -70,7 +70,7 @@ class UsersController extends AppController
                 $this->Session->setFlash(__('ユーザー情報を更新しました'));
                 $this->redirect(BASE_URL . 'users');
             } else {
-                $this->Session->setFlash(__('入力に誤りがあります。'));
+                $this->Session->setFlash(__('入力に誤りがあります'));
                 $this->User->varidationErrors;
             }
         } else {
