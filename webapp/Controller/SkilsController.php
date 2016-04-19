@@ -160,22 +160,21 @@ class SkilsController extends AppController
         }
         $this->set('staffNo', $staffNo);
         $this->Session->write('staffNo', $staffNo);
-        $this->set('staffNo', $this->Session->read('staffNo'));
 
         // 年リストセット
         $yearList = $this->yearList();
         $this->set('yearList', $yearList);
-        $this->set('yearList', $this->Session->read('yearList'));
+        $this->Session->write('yearList', $yearList);
 
         // 月リストセット
         $monthList = $this->monthList();
         $this->set('monthList', $monthList);
-        $this->set('monthList', $this->Session->read('monthList'));
+        $this->Session->write('monthList', $monthList);
 
         // 日にちリストセット
         $dayList = $this->dayList();
         $this->set('dayList', $dayList);
-        $this->set('dayList', $this->Session->read('dayList'));
+        $this->Session->write('dayList', $dayList);
     }
 
     /**
