@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS `sample_app`;
+CREATE DATABASE IF NOT EXISTS `sample_app`;
